@@ -52,17 +52,17 @@ The dataset was split at the **patient level** to avoid patient-level data leaka
 
 Original Dataset Links (IBM Aspera):
 
-   **CPTAC-LSCC**: [IBM Aspera Link](https://faspex.cancerimagingarchive.net/aspera/faspex/public/package?context=eyJyZXNvdXJjZSI6InBhY2thZ2VzIiwidHlwZSI6ImV4dGVybmFsX2Rvd25sb2FkX3BhY2thZ2UiLCJpZCI6IjY3MCIsInBhc3Njb2RlIjoiN2QzZjU0ZDY4Y2JiNjllZTIwZGRkYWI1YWU5N2Q1MDY5MjNlN2ZmNCIsInBhY2thZ2VfaWQiOiI2NzAiLCJlbWFpbCI6ImhlbHBAY2FuY2VyaW1hZ2luZ2FyY2hpdmUubmV0In0=&redirected=true&authenticated=true)
+* **CPTAC-LSCC**: [IBM Aspera Link](https://faspex.cancerimagingarchive.net/aspera/faspex/public/package?context=eyJyZXNvdXJjZSI6InBhY2thZ2VzIiwidHlwZSI6ImV4dGVybmFsX2Rvd25sb2FkX3BhY2thZ2UiLCJpZCI6IjY3MCIsInBhc3Njb2RlIjoiN2QzZjU0ZDY4Y2JiNjllZTIwZGRkYWI1YWU5N2Q1MDY5MjNlN2ZmNCIsInBhY2thZ2VfaWQiOiI2NzAiLCJlbWFpbCI6ImhlbHBAY2FuY2VyaW1hZ2luZ2FyY2hpdmUubmV0In0=&redirected=true&authenticated=true)
 
    
-   **CPTAC-LUAD**: [IBM Aspera Link](https://faspex.cancerimagingarchive.net/aspera/faspex/public/package?context=eyJyZXNvdXJjZSI6InBhY2thZ2VzIiwidHlwZSI6ImV4dGVybmFsX2Rvd25sb2FkX3BhY2thZ2UiLCJpZCI6IjEwOTUiLCJwYXNzY29kZSI6ImZkNDdkZGNmMGZiZTQyNWFlYWFhYmFiNzBjMTAxNzkzODcyZjcxODMiLCJwYWNrYWdlX2lkIjoiMTA5NSIsImVtYWlsIjoiaGVscEBjYW5jZXJpbWFnaW5nYXJjaGl2ZS5uZXQifQ==&redirected=true&authenticated=true)
+* **CPTAC-LUAD**: [IBM Aspera Link](https://faspex.cancerimagingarchive.net/aspera/faspex/public/package?context=eyJyZXNvdXJjZSI6InBhY2thZ2VzIiwidHlwZSI6ImV4dGVybmFsX2Rvd25sb2FkX3BhY2thZ2UiLCJpZCI6IjEwOTUiLCJwYXNzY29kZSI6ImZkNDdkZGNmMGZiZTQyNWFlYWFhYmFiNzBjMTAxNzkzODcyZjcxODMiLCJwYWNrYWdlX2lkIjoiMTA5NSIsImVtYWlsIjoiaGVscEBjYW5jZXJpbWFnaW5nYXJjaGl2ZS5uZXQifQ==&redirected=true&authenticated=true)
 
 Dataset split links (Google Drive):
 
-   **CPTAC-LSCC**: https://drive.google.com/drive/folders/1xn69OTswxweXWxzVi-TEXTQGWzUlv0lp?usp=sharing
+* **CPTAC-LSCC**: https://drive.google.com/drive/folders/1xn69OTswxweXWxzVi-TEXTQGWzUlv0lp?usp=sharing
   
 
-   **CPTAC-LUAD**: https://drive.google.com/drive/folders/1fek4SDpOBn5hKtPuIRsgEDk-2XP4XMA1?usp=sharing
+* **CPTAC-LUAD**: https://drive.google.com/drive/folders/1fek4SDpOBn5hKtPuIRsgEDk-2XP4XMA1?usp=sharing
 
 
 ## Preprocessing and Patch Extraction
