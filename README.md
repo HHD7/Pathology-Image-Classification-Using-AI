@@ -120,29 +120,17 @@ The extracted features are saved as HDF5 `.h5` files. Each `.h5` file represents
 
 The extracted features are not stored directly in this repository because they are large. They can be accessed from Google Drive using the links below.
 
+### CPTAC-LSCC Features
 
-Features/
-│
-├── CPTAC-LSCC/
-│   ├── CPTAC-LSCC_CTransPath_features/
-│   │   Link: [Google Drive](https://drive.google.com/drive/folders/1_WGGMtrclyb53HVUGNLyOmaKwLHOKpql?usp=sharing)
-│   │
-│   ├── CPTAC-LSCC_kimianet_features/
-│   │   Link: [Google Drive](https://drive.google.com/drive/folders/1jteOjBIYAYk25ssdqlAvUH37mseJV0zz?usp=sharing)
-│   │
-│   └── CPTAC-LSCC_MobileNet_features/
-│       Link: [Google Drive](https://drive.google.com/drive/folders/17jWtUisEF1zbDZkvX2cEJaoBGOtT6Col?usp=sharing)
-│
-└── CPTAC-LUAD/
-    ├── CPTAC-LUAD_CTransPath_features/
-    │   Link: [Google Drive](https://drive.google.com/drive/folders/1vF_f62vfH_19An9i9UoI5Qms-HsnBwxh?usp=sharing)
-    │
-    ├── CPTAC-LUAD_kimianet_features/
-    │   Link: [Google Drive](https://drive.google.com/drive/folders/1Gk2pg5i-sshiDYFRiKAxLQzEsrVcoFxB?usp=sharing)
-    │
-    └── CPTAC-LUAD_MobileNet_features/
-        Link: [Google Drive](https://drive.google.com/drive/folders/13TIQGAZT2iXkVym8aEEiHDOTHsDf4i0f?usp=sharing)
+- **CTransPath features:** [Google Drive](https://drive.google.com/drive/folders/1_WGGMtrclyb53HVUGNLyOmaKwLHOKpql?usp=sharing)
+- **KimiaNet features:** [Google Drive](https://drive.google.com/drive/folders/1jteOjBIYAYk25ssdqlAvUH37mseJV0zz?usp=sharing)
+- **MobileNetV2 features:** [Google Drive](https://drive.google.com/drive/folders/17jWtUisEF1zbDZkvX2cEJaoBGOtT6Col?usp=sharing)
 
+### CPTAC-LUAD Features
+
+- **CTransPath features:** [Google Drive](https://drive.google.com/drive/folders/1vF_f62vfH_19An9i9UoI5Qms-HsnBwxh?usp=sharing)
+- **KimiaNet features:** [Google Drive](https://drive.google.com/drive/folders/1Gk2pg5i-sshiDYFRiKAxLQzEsrVcoFxB?usp=sharing)
+- **MobileNetV2 features:** [Google Drive](https://drive.google.com/drive/folders/13TIQGAZT2iXkVym8aEEiHDOTHsDf4i0f?usp=sharing)
 
 ## Classifiers
 
