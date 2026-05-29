@@ -121,15 +121,15 @@ The extracted features are not stored directly in this repository because they a
 
 ### CPTAC-LSCC Features
 
-- **CTransPath features:** [Google Drive](https://drive.google.com/drive/folders/1_WGGMtrclyb53HVUGNLyOmaKwLHOKpql?usp=sharing)
-- **KimiaNet features:** [Google Drive](https://drive.google.com/drive/folders/1jteOjBIYAYk25ssdqlAvUH37mseJV0zz?usp=sharing)
-- **MobileNetV2 features:** [Google Drive](https://drive.google.com/drive/folders/17jWtUisEF1zbDZkvX2cEJaoBGOtT6Col?usp=sharing)
+- **CTransPath features:** https://drive.google.com/drive/folders/1_WGGMtrclyb53HVUGNLyOmaKwLHOKpql?usp=sharing
+- **KimiaNet features:** https://drive.google.com/drive/folders/1jteOjBIYAYk25ssdqlAvUH37mseJV0zz?usp=sharing
+- **MobileNetV2 features:** https://drive.google.com/drive/folders/17jWtUisEF1zbDZkvX2cEJaoBGOtT6Col?usp=sharing
 
 ### CPTAC-LUAD Features
 
-- **CTransPath features:** [Google Drive](https://drive.google.com/drive/folders/1vF_f62vfH_19An9i9UoI5Qms-HsnBwxh?usp=sharing)
-- **KimiaNet features:** [Google Drive](https://drive.google.com/drive/folders/1Gk2pg5i-sshiDYFRiKAxLQzEsrVcoFxB?usp=sharing)
-- **MobileNetV2 features:** [Google Drive](https://drive.google.com/drive/folders/13TIQGAZT2iXkVym8aEEiHDOTHsDf4i0f?usp=sharing)
+- **CTransPath features:** https://drive.google.com/drive/folders/1vF_f62vfH_19An9i9UoI5Qms-HsnBwxh?usp=sharing
+- **KimiaNet features:** https://drive.google.com/drive/folders/1Gk2pg5i-sshiDYFRiKAxLQzEsrVcoFxB?usp=sharing
+- **MobileNetV2 features:** https://drive.google.com/drive/folders/13TIQGAZT2iXkVym8aEEiHDOTHsDf4i0f?usp=sharing
 
 ## Classifiers
 
