@@ -120,7 +120,7 @@ The extracted features are saved as HDF5 `.h5` files. Each `.h5` file represents
 
 The extracted features are not stored directly in this repository because they are large. They can be accessed from Google Drive using the links below.
 
-```text
+
 Features/
 │
 ├── CPTAC-LSCC/
@@ -142,7 +142,7 @@ Features/
     │
     └── CPTAC-LUAD_MobileNet_features/
         Link: [Google Drive](https://drive.google.com/drive/folders/13TIQGAZT2iXkVym8aEEiHDOTHsDf4i0f?usp=sharing)
-```
+
 
 ## Classifiers
 
