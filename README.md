@@ -33,7 +33,7 @@ Collab Notebooks/
 ├── Datasets/
 │   └── Contains notebooks related to dataset preparation, label handling,
 │       patient-level splitting, and leakage verification.
-│       It also includes the metadata/CSV file used to assign slide labels.
+│       It also includes the CSV file used to assign slide labels.
 │
 └── Feature_Extractors/
     └── Contains notebooks for extracting features from WSIs.
