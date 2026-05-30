@@ -24,7 +24,7 @@ The project was implemented using **Google Colab**. And **Google Drive** was use
 ## Repository Structure
 
 ```text
-Collab Notebooks/
+Colab Notebooks/
 │
 ├── Classifiers/
 │   └── Contains the classifier notebooks for training and evaluating the MIL models.
@@ -165,7 +165,7 @@ To improve reliability, experiments were repeated across **5 random seeds**, and
 Download the CPTAC-LSCC and CPTAC-LUAD datasets using IBM Aspera and organize them into Tumor and Normal folders. Then run the dataset preparation notebooks inside:
 
 ```text
-Collab Notebooks/Datasets/
+Colab Notebooks/Datasets/
 ```
 
 These notebooks handle label preparation, patient-level splitting, and leakage checking.
@@ -175,7 +175,7 @@ These notebooks handle label preparation, patient-level splitting, and leakage c
 Run the feature extractor notebooks inside:
 
 ```text
-Collab Notebooks/Feature_Extractors/
+Colab Notebooks/Feature_Extractors/
 ```
 
 Each feature extractor notebook processes the WSIs and saves the extracted patch embeddings as `.h5` files.
@@ -187,7 +187,7 @@ The `.h5` files should be saved into the corresponding feature folders on Google
 Run the classifier notebooks inside:
 
 ```text
-Collab Notebooks/Classifiers/
+Colab Notebooks/Classifiers/
 ```
 
 These notebooks load the extracted `.h5` feature files and train the AMIL and Max-Pooling MIL classifiers.
