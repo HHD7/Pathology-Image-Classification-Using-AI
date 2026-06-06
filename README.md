@@ -96,7 +96,8 @@ KimiaNetPyTorchWeights.pth
 
 ### CTransPath
 
-CTransPath was used as a transformer-based pathology feature extractor. It uses a Swin Transformer architecture with a custom convolutional stem. It outputs a **768-dimensional feature vector** for each patch.
+CTransPath was used as a transformer-based pathology feature extractor. It uses a Swin Transformer architecture with a custom convolutional stem. The model architecture was imported from **`ctran.py`** and initialized using the `ctranspath()` function. It outputs a **768-dimensional feature vector** for each patch.
+
 
 The pretrained weights were loaded from:
 
